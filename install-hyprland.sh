@@ -182,7 +182,6 @@ fi
 
 # startup services
 printf " Activating tlp Services...\n"
-sudo systemctl enable --now tlp.service
 sleep 2
 
 ### Script is done ###
